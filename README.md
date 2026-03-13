@@ -1,11 +1,11 @@
 # Hi, I'm Abinav 👋
 
 💻 MERN Stack / Full-Stack Developer  
-🚀 Passionate about building modern web applications
+ Passionate about building modern web applications
 
 ---
 
-## 👨‍💻 Tech Stack
+##  Tech Stack
 
 Frontend
 - React.js
@@ -30,7 +30,7 @@ Tools
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### Banking Management System
 Full-stack MERN application for managing banking operations like accounts and transactions.
@@ -60,7 +60,7 @@ https://portfolio-abinav.vercel.app
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 LinkedIn  
 https://www.linkedin.com/in/abinav-e-65099231b/
